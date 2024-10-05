@@ -1,4 +1,4 @@
-import SearchComponent from "../Components/Search";
+import SearchComponent from "../Search";
 
 const Home = () => {
   return(
